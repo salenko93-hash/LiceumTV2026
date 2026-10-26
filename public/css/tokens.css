@@ -1,0 +1,3 @@
+/* Shared, opt-in tokens. Existing layouts are intentionally unchanged. */
+:root { --ltv-space-xs: 4px; --ltv-space-sm: 8px; --ltv-space-md: 16px; --ltv-space-lg: 24px; --ltv-radius-md: 12px; --ltv-focus-ring: 0 0 0 3px rgba(53,131,255,.45); }
+:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
